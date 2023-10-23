@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsayin
 - 👀 I’m interested in cybersecurity, python, linux
-- 🌱 I’m currently attendin a bootcamp
+- 🌱 I’m currently attending a bootcamp
 - 💞️ I’m looking to collaborate on cybersecurity, programming in python and linux
 - 📫 Anybody can reach me by my email...
 
